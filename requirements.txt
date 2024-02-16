@@ -8,3 +8,4 @@ matplotlib
 ipython
 Pillow
 streamlit
+datetime
